@@ -1,0 +1,2 @@
+accessWidener v2 named
+accessible method net/minecraft/block/entity/HopperBlockEntity getAvailableSlots (Lnet/minecraft/inventory/Inventory;Lnet/minecraft/util/math/Direction;)[I

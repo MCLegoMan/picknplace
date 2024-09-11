@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "redstone",
+	"key": {
+		"#": {
+			"item": "minecraft:cobblestone"
+		},
+		"P": {
+			"tag": "minecraft:pickaxes"
+		},
+		"R": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"pattern": [
+		"#P#",
+		"# #",
+		"#R#"
+	],
+	"result": {
+		"count": 1,
+		"id": "mclm_picknplace:pickaxe_block"
+	},
+	"show_notification": true
+}
